@@ -2,7 +2,7 @@
 A simple online messaging app built with Flutter & Firebase.  
 
 <p align="center">
-  <img src="screenshots/login.jpg" alt="Login Screen" width="600"/>
+  <img src="screenshots/login.jpg" alt="Login Screen" width="300"/>
 </p>
 
 ---
@@ -32,8 +32,8 @@ It allows registered users to connect and send messages to each other in real-ti
 <p align="center">
   <img src="screenshots/login.jpg" alt="Login Screen" width="200"/>
   <img src="screenshots/signup.jpg" alt="Sign Up Screen" width="200"/>
-  <img src="screenshots/users.jpg" alt="Users Screen" width="200"/>
-  <img src="screenshots/messages.jpg" alt="Messages Screen" width="200"/>
+  <img src="screenshots/user.jpg" alt="Users Screen" width="200"/>
+  <img src="screenshots/chat.jpg" alt="Messages Screen" width="200"/>
 </p>
 
 ---
